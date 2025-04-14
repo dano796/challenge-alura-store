@@ -46,6 +46,8 @@ El objetivo principal de este challenge es **desarrollar habilidades prácticas 
 
 **5. Costo de envío promedio:** Se analiza el valor medio del costo de envío en cada tienda.
 
+<br>
+
 ## Ejemplo de Código
 
 ```python
