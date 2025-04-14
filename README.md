@@ -46,8 +46,6 @@ El objetivo principal de este challenge es **desarrollar habilidades prácticas 
 
 **5. Costo de envío promedio:** Se analiza el valor medio del costo de envío en cada tienda.
 
-<br>
-
 ## Ejemplo de Código
 
 ```python
@@ -66,10 +64,10 @@ for nombre, productos in zip(nombres, productos_por_categoria):
     print()
 ```
 
-<br>
+---
 
-Practicando Python para Data Science: Challenge Alura Store
+### Practicando Python para Data Science: Challenge Alura Store
 
-Challenge de la Formación: Practicando Python para Data Science G8-ONE
+### Challenge de la Formación: Practicando Python para Data Science G8-ONE
 
-Daniel Ortiz Aristizábal
+### Daniel Ortiz Aristizábal
