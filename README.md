@@ -2,6 +2,8 @@
 
 Este proyecto forma parte del **Challenge de la Formación: Practicando Python para Data Science del grupo G8-ONE**, y tiene como objetivo aplicar técnicas fundamentales de **análisis y visualización de datos para obtener insights comerciales** de una serie de tiendas.
 
+<br>
+
 ## Descripción
 
 El objetivo principal de este challenge es **desarrollar habilidades prácticas en análisis de datos con Python**, utilizando librerías populares en el ecosistema de Data Science, como pandas, numpy, matplotlib y seaborn. A través del **análisis exploratorio de datos de ventas y productos**, se busca **identificar oportunidades, entender el comportamiento de los clientes y apoyar la toma de decisiones estratégicas**.
