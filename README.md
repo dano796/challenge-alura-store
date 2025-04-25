@@ -4,6 +4,8 @@ Este proyecto forma parte del **Challenge de la Formación: Practicando Python p
 
 <br>
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o2-8dQ__CuKBN8lMbKW0IzotLSkIoUIn?usp=sharing)
+
 ## Descripción
 
 El objetivo principal de este challenge es **desarrollar habilidades prácticas en análisis de datos con Python**, utilizando librerías populares en el ecosistema de Data Science, como pandas, numpy, matplotlib y seaborn. A través del **análisis exploratorio de datos de ventas y productos**, se busca **identificar oportunidades, entender el comportamiento de los clientes y apoyar la toma de decisiones estratégicas**.
